@@ -16,13 +16,11 @@ install_requires = [
     "colorama==0.4.4",
     "scikit_learn>=0.23.2",
     "pyyaml>=5.1.0",
-    "tensorboard>=2.5.0",
     "thop>=0.1.1.post2207130030",
     "tabulate>=0.8.10",
     "plotly>=4.0.0",
     "texttable>=0.9.0",
     "psutil>=5.9.0",
-    "ray>=1.13.0, <=2.6.3",
 ]
 
 setup_requires = []
